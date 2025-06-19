@@ -17,7 +17,7 @@ onnxruntime>=1.15.0
 onnx==1.15.0
 pillow>=10.2.0
 pip-tools>=6.12.1
-einops==0.3.2
+einops>=0.3.2
 treelib==1.6.1
 termcolor==1.1.0
 packaging>=20.4
